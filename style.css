@@ -81,10 +81,9 @@ header {
     max-height: 100%;
 }
 
-/* Background GIF by HackerNoon - https://hackernoon.com/images/f2px36fy.gif */
 .intro-container {
     color: #fdfdfd;
-    background-image: url(./images/container.gif);
+    background-color: #444;
     background-size: 150px;
 }
 
